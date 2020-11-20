@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  z-index: 100;
+}
+.header img {
+  width: 70px;
+  height: 50px;
+  object-fit: contain;
+}
+.forumIcon {
+  padding: 20px;
+}
